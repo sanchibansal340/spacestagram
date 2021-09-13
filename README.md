@@ -25,7 +25,7 @@ __Dektop View__
 <img src="./src/assets/images/desktop_view.png" alt="Dektop view of Spacestagram">
 
 __Tablet View__ \
-<img src="./src/assets/images/ipad_view.png" alt="Tablet view of Spacestagram" height="300">
+<img src="./src/assets/images/ipad_view.png" alt="Tablet view of Spacestagram" height="500">
 
 __Mobile View__ \
-<img src="./src/assets/images/mobile_view.png" alt="Mobile view of Spacestagram" height="300">
+<img src="./src/assets/images/mobile_view.png" alt="Mobile view of Spacestagram" height="450">
