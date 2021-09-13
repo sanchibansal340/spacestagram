@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap');
+
+.App {
+    background-image: url('https://image.freepik.com/free-vector/space-galaxy-background_53876-93034.jpg');
+    background-attachment: fixed;
+    background-size: contain;
+    font-family: 'Urbanist', sans-serif;
+}
