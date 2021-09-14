@@ -1,0 +1,35 @@
+{
+    "extends": [
+      "plugin:react/recommended", 
+      "airbnb"
+    ],
+    "rules": {
+        "react/prop-types": 0,
+        "max-len": "off",
+        "no-console": 1,
+        "linebreak-style": 0,
+        "react/jsx-filename-extension": "off",
+        "react/button-has-type": "off",
+        "comma-dangle": "off",
+        "react-hooks/rule-of-hooks": 0,
+        "react-hooks/exhaustive-deps": 1
+    },
+    "plugins": ["react", "import", "jsx-a11y", "react-hooks"],
+    "parserOptions": {
+      "ecmaVersion": 2018,
+      "sourceType": "module",
+      "ecmaFeatures": {
+        "jsx": true
+      }
+    },
+    "env": {
+      "es6": true,
+      "browser": true,
+      "node": true
+    },
+    "settings": {
+        "react": {
+            "version": "detect"
+        }
+    }
+}
