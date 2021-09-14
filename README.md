@@ -17,8 +17,11 @@ _This was built as part of the  application procedure of Shopify Frontend Intern
 Background Image from [Freepik](https://www.freepik.com/) \
 Logo from [Icons8](https://icons8.com/icons)
 
+This project is deployed using gh-pages. [View the demo here.](http://sanchibansal340.github.io/spacestagram)
+
 \
 __Note:__ This project directory has been setup according to the assumption that it will be extended in the near future.
+
 
 ## Screenshots
 __Dektop View__
